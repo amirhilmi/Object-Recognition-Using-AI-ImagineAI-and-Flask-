@@ -3,7 +3,7 @@ A basic example of how to deploy a machine learning/deep learning model with Fla
 
 
 [![Demo Object Recognisation](Object_detect_vid.gif)]
-
+![Output sample](https://github.com/ajasmin/camstudio-mousedown-highlight/raw/master/android_vid_test.gif)
 
 *You built this amazing machine learning model, but now what?
 How do you take your model and turn it into something that you can display on the web? How do you turn it into something that other people can interact with? How do you make it useful?*
