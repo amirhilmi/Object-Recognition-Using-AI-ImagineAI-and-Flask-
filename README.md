@@ -1,4 +1,4 @@
-# ML_model_deployment
+# ML_Model_Deployment
 An example of how to deploy a machine learning/deep learning model with Flask.
 
 
